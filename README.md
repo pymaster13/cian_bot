@@ -5,6 +5,6 @@ A bot implemented in Python and designed to quickly buying proposals from a cust
 ### Features
 
 Main libraries that are used : 
-- beautifulsoup4 (for parsing html), 
+- beautifulsoup4, lxml (for parsing html), 
 - selenium (for imitation of user actions),
 - logging (for logging all work processes).
